@@ -58,6 +58,7 @@
                     <h1>Congratulations!</h1>
                     <h2>You just created a PHP Laravel web application</h2>
                     <p>hogepiyohuga</p>
+                    <p>aqwsedrftgyhuji</p>
                 </div>
             </div>
         </div>
